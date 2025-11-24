@@ -72,5 +72,4 @@ MyList.PrintList()
 ## Result
 Thus, the output is verified.
 
-## Result
 
